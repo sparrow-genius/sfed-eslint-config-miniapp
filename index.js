@@ -1,4 +1,5 @@
 module.exports = {
+  // 根配置，不再寻找上层目录
   root: true,
   // 运行环境
   env: {

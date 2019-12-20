@@ -19,10 +19,6 @@ module.exports = {
   },
   // 解析选项
   'parserOptions': {
-    // ECM特性
-    'ecmaFeatures': {
-      'jsx': true
-    },
     'ecmaVersion': 2018,
     'sourceType': 'module'
   },

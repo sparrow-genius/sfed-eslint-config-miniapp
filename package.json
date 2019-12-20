@@ -1,6 +1,6 @@
 {
   "name": "@sfed/eslint-config-miniapp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,11 @@
   "keywords": [],
   "author": "",
   "peerDependencies": {
-    "eslint": "^5.16.0 || ^6.7.2"
+    "eslint": "^6.7.2"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1"
+  }
 }

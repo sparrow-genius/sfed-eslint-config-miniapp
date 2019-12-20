@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "peerDependencies": {
-    "eslint": "^5.16.0 || ^6.7.2"
+    "eslint": "^6.7.2"
   },
   "license": "MIT",
   "dependencies": {

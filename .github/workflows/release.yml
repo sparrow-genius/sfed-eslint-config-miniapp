@@ -1,6 +1,6 @@
 name: Build and Publish
 on:
-  merge
+  push:
     branches:
       - pro
 jobs:
